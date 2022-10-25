@@ -3,7 +3,7 @@ import Message from '../components/Message'
 
 const Messages = () => {
   return (
-    <div>
+    <div className='messages'>
         <Message/>
         <Message/>
         <Message/>
