@@ -18,7 +18,9 @@ const Register = () => {
           </label>
           <button>Sign up</button>
         </form>
-        <p>You have an account? Login</p>
+        <p>You have an account?
+          <a href="">Login</a> 
+        </p>
       </div>
     </div>
   );
