@@ -9,7 +9,7 @@ const Message = () => {
       </div>
       <div className="messageContent">
         <p>Hello</p>
-        <img src="" alt="" />
+        <img src="https://img.favpng.com/12/18/7/avatar-clip-art-png-favpng-L8838LhmwHRqHzDmZeFgYha0L.jpg" alt="" />
       </div>
     </div>
   )
